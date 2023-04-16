@@ -1,0 +1,2 @@
+ali,111,admin
+zara,55,customer

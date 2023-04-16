@@ -1,0 +1,4 @@
+Food MENU
+Pizza,1000
+ZingerBuger,1500
+Shawarma,150

@@ -1,0 +1,9 @@
+G:\oopPD week1\BussinessProject\BussinessProject\obj\Debug\BussinessProject.csproj.AssemblyReference.cache
+G:\oopPD week1\BussinessProject\BussinessProject\obj\Debug\BussinessProject.csproj.CoreCompileInputs.cache
+G:\oopPDweek1\BussinessProject\BussinessProject\obj\Debug\BussinessProject.csproj.AssemblyReference.cache
+G:\oopPDweek1\BussinessProject\BussinessProject\obj\Debug\BussinessProject.csproj.CoreCompileInputs.cache
+G:\oopPDweek1\BussinessProject\BussinessProject\bin\Debug\BussinessProject.exe.config
+G:\oopPDweek1\BussinessProject\BussinessProject\bin\Debug\BussinessProject.exe
+G:\oopPDweek1\BussinessProject\BussinessProject\bin\Debug\BussinessProject.pdb
+G:\oopPDweek1\BussinessProject\BussinessProject\obj\Debug\BussinessProject.exe
+G:\oopPDweek1\BussinessProject\BussinessProject\obj\Debug\BussinessProject.pdb
